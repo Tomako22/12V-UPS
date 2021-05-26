@@ -19,6 +19,9 @@ table, th, td {
   border-spacing: 5px;
   border-collapse: collapse;
   padding: 5px;
+  position:absolute;
+  top:50%;
+  left:50%; 
 }
 a:link {color:white;} /* unvisited link */ a:visited {color:white;} /* 
 visited link */ a:hover {color:white;} /* mouse over link */ a:active 
