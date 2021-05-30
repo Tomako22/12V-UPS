@@ -1,0 +1,49 @@
+body
+{ 
+    margin:60px 0px; 
+    padding:0px; 
+    text-align:center;
+}
+h1 
+{ 
+    text-align: center; 
+    font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
+}
+h2 
+{ 
+    text-align: center; 
+    font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
+}
+a 
+{ 
+    text-decoration:none; 
+    width:75px; 
+    height:50px; 
+    border-color:black; 
+    border-top:2px solid; 
+    border-bottom:2px solid; 
+    border-right:2px solid; 
+    border-left:2px solid; 
+    border-radius:10px 10px 10px; 
+    -o-border-radius:10px 10px 10px; 
+    -webkit-border-radius:10px 10px 10px; 
+    font-family:"Trebuchet MS",Arial, Helvetica, sans-serif; 
+    -moz-border-radius:10px 10px 10px; 
+    background-color:#293F5E; 
+    padding:8px; 
+    text-align:center;
+}
+table, th, td 
+{
+    border: 2px solid #293F5E;
+    border-spacing: 5px;
+    border-collapse: collapse;
+    padding: 2.5px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link {color:white;}
+a:visited {color:white;}
+a:hover {color:white;}
+a:active {color:white;}
